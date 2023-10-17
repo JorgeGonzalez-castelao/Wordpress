@@ -1,7 +1,5 @@
 
 
-Por supuesto, aquí tienes una versión estilizada y con un formato más apropiado para un README de GitHub:
-
 ```markdown
 # Configuración de Docker Compose para WordPress
 
