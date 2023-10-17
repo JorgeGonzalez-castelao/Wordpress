@@ -87,6 +87,7 @@ wordpress:
 
 
 
-Adjunta
+![image](https://github.com/JorgeGonzalez-castelao/Wordpress/assets/113522749/e3c8ff49-92e2-4046-a463-520f47e1f95a)
+
 
 
